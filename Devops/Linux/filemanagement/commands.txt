@@ -1,0 +1,3 @@
+mv oldfile newfile
+mv filename directory
+cp filename directory

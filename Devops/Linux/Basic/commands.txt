@@ -1,0 +1,16 @@
+mkdir directoryname
+mkdir dir1 dir2 dirn
+mkdir -p dir/subdir/subdir1/subdirn
+touch filename
+touch filename{1..8}.extensions
+vi filename
+nano filename
+cat filename
+rmdir directory
+rm -r dir_name
+rm filename
+ls
+ls -l
+ls -a
+cd directoryname
+cd ..

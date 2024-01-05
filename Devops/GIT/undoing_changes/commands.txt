@@ -1,0 +1,7 @@
+git reset filename
+git reset --soft filename
+git reset --hard filename
+git diff branch1 branch2
+git checkout filename
+git checkout .
+
